@@ -89,7 +89,7 @@ DATABASES = {
         "NAME": "pdfanalyzer",
         "ENFORCE_SCHEMA": False,
         "CLIENT": {
-            "host": "mongodb+srv://gedeabera90:Abera1989@cluster0.q1gzgmx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "host": "mongodb://gedeabera89:Abera1990@ac-rxvxoc6-shard-00-00.q1gzgmx.mongodb.net:27017,ac-rxvxoc6-shard-00-01.q1gzgmx.mongodb.net:27017,ac-rxvxoc6-shard-00-02.q1gzgmx.mongodb.net:27017/?replicaSet=atlas-cazmbq-shard-0&ssl=true&authSource=admin",
         
         },
     }
